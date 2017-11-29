@@ -156,8 +156,8 @@ if (isset($_SESSION['user']))
 	?>
 <div class="footer"><a href="admin.php">Scurt istoric</a></div>
 <div class="clear"></div>
-<div id="footer"><div class="fleft">© 2015 Marius Adam & Cristi Birla.Toate drepturile rezervate.</div>
-<div class="fcenter">Design by MA &amp; CB ///coded by MA & CB</div></div>
+<div id="footer"><div class="fleft">© 2017 Cristi Birla & Ionut Dondera. Toate drepturile rezervate.</div>
+<div class="fcenter">Design by ID &amp; CB ///coded by ID & CB</div></div>
 </div>
 </div>
 </body>

@@ -2,13 +2,9 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<title>Noul BMW iDrive</title>
+<title>Scurt istoric</title>
 <link href="style/style.css" rel="stylesheet" type="text/css" />
-
-	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
-	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
-	<script type="text/javascript" src="engine0/jquery.js"></script>
-	<!-- End WOWSlider.com HEAD section --></head>
+</head>
 <body>
 
 <div class="outer">
@@ -74,53 +70,52 @@ if (isset($_SESSION['user']))
 </div>
 </div>
 </div>
-<div id="content3">
-<h2>Noul Bmw iDrive</h2><br />
+<div id="content2">
+<h2>Scurt istoric</h2> <br>
 <div id="main">
- <img src="images/idrive_title.jpg">
- <p> BMW a acordat o importanta deosebita targului noilor tehnologii CES 2015, desfasurat 
- in las Vegas. Dupa ce a expus noua sa generatie de lumini laser si stopuri OLED, precum si 
- un BMW i3 capabil sa se parcheze singur, constructorul bavarez a continuat sa surprinda cu
- o versiune concept a sistemului multimedia iDrive. </p>
-<p>Pentru cei care nu stiu, iDrive este numele conglomeratului tehnologic ascuns in spatele
- sistemului multimedia proiectat in mijlocul plansei de bord. Sistemul este foarte popular 
- si apreciat pentru usurinta in utilizare, insa el este pe cale de a fi imbunatatit pentru 
-viitoarele modele de serie.</p>
-<p> Conceptul sistemului iDrive expus la CES este asteptat sa isi faca aparitia chiar pe 
-viitoarea generatie Seria 7, programata sa debuteze anul acesta. El promite un ecran ceva 
-mai mare, care vine, in premiera pentru bavarezi, cu o functie tactila. Ea va prelua si 
-va completa comenzile oferite clasic prin butonul iDrive de pe consola centrala. Functia 
-tactila va face mai usoara inserarea textului. </p>
-<p> Potrivit oficialilor BMW, sistemul decodeaza diferite miscari, cum ar fi apasarea, 
-rotatiile degetelor sau trecerea mainilor de la stanga la dreapta. Spre exemplu, o miscare 
-de rotire a degetului poate reduce sau mari volumul sistemului audio, un deget ridicat poate 
-raspunde la telefon, iar o trecere rapida a mainii poate refuza sau accepta apelul. </p>
-<p> Toate aceste inovatii vor fi completate si de un nou sistem multimedia disponibil pentru 
-locurile din spate si botezat TouchCommand. Acesta este practic o tableta Samsung detasabila,
- echipata cu o aplicatie speciala BMW, care permite pasagerilor din spate accesul la toate
- functiile masinii: de la climatizare, la ajustarea pozitiei scaunelor.Tableta este pastrata
- intr-o carcasa care o fereste de lovituri si poate fi incarcata prin atasarea la un dispozitiv special creat.</p>
-
-
-	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
-	<div id="wowslider-container0">
-	<div class="ws_images"><ul>
-		<li><img src="data0/images/idrive_big.jpg" alt="idrive_big" title="idrive_big" id="wows0_0"/></li>
-		<li><img src="data0/images/idrive_1.jpg" alt="idrive_1" title="idrive_1" id="wows0_1"/></li>
-		<li><a href="http://wowslider.com/vf"><img src="data0/images/idrive_2.jpg" alt="full screen slider" title="full screen slider" id="wows0_2"/></a></li>
-		<li><img src="data0/images/idrive_3.jpg" alt="idrive_3" title="idrive_3" id="wows0_3"/></li>
-	</ul></div>
-	<div class="ws_bullets"><div>
-		<a href="#wows0_0" title="idrive_big"><img src="data0/tooltips/idrive_big.jpg" alt="idrive_big"/>1</a>
-		<a href="#wows0_1" title="idrive_1"><img src="data0/tooltips/idrive_1.jpg" alt="idrive_1"/>2</a>
-		<a href="#wows0_2" title="full screen slider"><img src="data0/tooltips/idrive_2.jpg" alt="full screen slider"/>3</a>
-		<a href="#wows0_3" title="idrive_3"><img src="data0/tooltips/idrive_3.jpg" alt="idrive_3"/>4</a>
-	</div></div><span class="wsl"><a href="http://wowslider.com/vu">image carousel</a> by WOWSlider.com v7.4</span>
-	<div class="ws_shadow"></div>
-	</div>	
-	<script type="text/javascript" src="engine0/wowslider.js"></script>
-	<script type="text/javascript" src="engine0/script.js"></script>
-	<!-- End WOWSlider.com BODY section --></div>
+<p>Automobile Bavaria Group reprezinta unul dintre cele mai puternice 
+ grupuri de firme cu activitate in domeniul auto din Europa Centrala si de Est. </p>
+<p>Automobile Bavaria s-a infiintat in 1994, la Brasov, avand statutul de 
+importator al marcii BMW. Tot in 1994 s-a deschis si primul birou al companiei 
+in Bucuresti. 1995 a marcat inaugurarea primului showroom BMW din Romania la World Trade Center, 
+una dintre cele mai moderne constructii din acel moment. </p>
+<p>In 1997 se inaugureaza primul sediu Automobile Bavaria, in Otopeni, pe Soseaua de Centura, a
+mplasare care s-a dovedit a fi deschizatoare de drumuri in comertul auto. 
+Dupa numai doi ani, dezvoltarea pietei pentru BMW a determinat 
+extinderea sediului din Otopeni. </p>
+ <p>Reprezentanta din Cluj si cea din Constanta, functioneaza din anul 2001. </p>
+ <p>Dealerul din Brasov, Contempo Cars, a intrat pe piata iar in 2009 a 
+deschis o noua filiala in Sibiu. </p>
+ <p>In anul 2003 s-a deschis reprezentanta Autotransilvania Targu Mures. </p>
+ <p>Reprezentantata Banat Car, in Timisoara, functioneaza din anul 2005. </p>
+ <p>Dealer-ul infiintat in cadrul Automobile Bavaria Group cel mai recent (2009) 
+este MHS Motors, amplasat in Craiova. </p>
+<p>De-a lungul timpului, compania a avut in portofoliu toate brandurile 
+detinute de BMW Group, mentinandu-le pe cele pastrate de producatorul 
+german: in 1998 a devenit importator Land Rover, MG si Rover, la care 
+renunta in 2004. In 2001 a preluat importul marcii MINI, care si-a 
+dovedit a fi un succes pe piata romaneasca. Automobile Bavaria este 
+in prezent cel mai important dealer MINI din Romania. </p>
+ <p>In 2006 a avut loc inaugurarea spectaculosului sediu din Baneasa, 
+a carui investitie s-a ridicat la 12 milioane de Euro. Cladirea este 
+unul dintre cele mai impresionante dealership-uri BMW din Europa si 
+include showroom si service BMW, showroom si service MINI, depozit 
+piese de schimb, birouri, spatiu pentru evenimente, terasa, spatii 
+de asteptare pentru clienti, bar BMW, lifestyle shop, sali de conferinta,
+ sali de training, cantina, parcare pentru masinile de stoc, parcare pentru clienti. </p>
+<p>In cei 20 de ani de activitate, Automobile Bavaria si-a extins 
+serviciile de vanzare si post-vanzare pentru marcile BMW Group, 
+deschizand dealeri proprii in marile orase, reuniti in cea mai 
+mare retea BMW din Centrul si Estul Europei. </p>
+<p>In total, reteaua de dealeri Automobile Bavaria include 
+reprezentante in zece orase din tara si patru in Germania, langa Munchen. </p>
+<p>In anul 2010 s-a deschis in incinta sediului din Baneasa primul 
+service autorizat Rolls-Royce din Romania, fiind si si unicul de 
+acest fel pe o raza de 1.000 km. Doua service-uri MINI au fost 
+deschise tot in anul 2010 la Cluj si Timisoara iar retelei de 
+dealeri Automobile Bavaria Group din Germania i s-au adaugat 
+trei locatii noi in acelasi an.</p>
+</div>
 <div class="clear"></div>
 </div>
 
