@@ -84,27 +84,27 @@ if (isset($_SESSION['user']))
  <P><img src="images/n21_pret.jpg"></P>
  <p> <img src="images/n21_date.jpg" ></p>
  <p>&nbsp&nbsp&nbsp&nbsp Cel mai placut lucru la BMW X1 este tinuta de drum.
- Nu te-ai astepta ca un SUV sau un break înaltat - depinde cum privesti - sa 
- fie atât de dinamic. Ei bine, este. Si poate sta fara rusine alaturi de BMW
+ Nu te-ai astepta ca un SUV sau un break ï¿½naltat - depinde cum privesti - sa 
+ fie atï¿½t de dinamic. Ei bine, este. Si poate sta fara rusine alaturi de BMW
  seria 3 la capitolul comportament rutier. Suspensia este ferma, dar fara a muta
  rinichii celor din interior, ceea ce permite abordarea sportiva a unui drum
  virajat de munte. Apoi, un mare plus este adus de directie. Volanul are o
  demultiplicare scurta si precisa, iar asistarea este impeciabila, ceea ce
- transforma condusul acestui automobil într-o adevarata placere.
+ transforma condusul acestui automobil ï¿½ntr-o adevarata placere.
 <br />&nbsp&nbsp&nbsp&nbsp
- În ciuda faptului ca modelul nostru nu era echipat cu o camera de luat 
+ ï¿½n ciuda faptului ca modelul nostru nu era echipat cu o camera de luat 
  vederi pentru mersul cu spatele, ci doar cu un set de senzori fata-spate, 
  manevrele de parcare sunt usor de efectuat. Vizibilitatea la volan este
- buna datorita pozitiei usor înalte si a suprafetelor vitrate absolut corecte.
- Montantul stânga fata poate jena uneori vizibilitatea la virajele mai strânse
- de stânga, dar în rest nu exista probleme la acest capitol.
+ buna datorita pozitiei usor ï¿½nalte si a suprafetelor vitrate absolut corecte.
+ Montantul stï¿½nga fata poate jena uneori vizibilitatea la virajele mai strï¿½nse
+ de stï¿½nga, dar ï¿½n rest nu exista probleme la acest capitol.
  <br />&nbsp&nbsp&nbsp&nbsp
  Actualul model X1 este cel care a trecut printr-un facelift discret acum un 
  an de zile. Modificarile au fost subtile si sunt greu de descris chiar si
  pentru un fan BMW. Ca design complet, X1 este considerat mai frumos fata de
- fratele sau mai mare, X3. Este omogen, fara a epata, dar stii sigur ca ai în
- fata un BMW. Modelul testat de noi a venit cu look-ul Sport Line, ceea ce îl
- face ceva mai atractiv fata de un X1 normal. Oricum, personal îl gasesc drept
+ fratele sau mai mare, X3. Este omogen, fara a epata, dar stii sigur ca ai ï¿½n
+ fata un BMW. Modelul testat de noi a venit cu look-ul Sport Line, ceea ce ï¿½l
+ face ceva mai atractiv fata de un X1 normal. Oricum, personal ï¿½l gasesc drept
  unul din SUV-urile cele mai placute ochiului din aceasta clasa.  </p>
 		</div>
 <div class="clear"></div>
@@ -164,8 +164,8 @@ if (isset($_SESSION['user']))
 	?>
 <div class="footer"><a href="admin.php">Scurt istoric</a></div>
 <div class="clear"></div>
-<div id="footer"><div class="fleft">© 2017 Cristi Birla & Ionut Dondera. Toate drepturile rezervate.</div>
-<div class="fcenter">Design by ID &amp; CB ///coded by ID & CB</div></div>
+        <div id="footer"><div class="fleft">ï¿½ 2017 Cristi Birla & Ionut Dondera. Toate drepturile rezervate.</div>
+            <div class="fcenter">Design by ID &amp; CB ///coded by ID & CB</div></div><div class="fcenter">Design by MA &amp; CB ///coded by MA & CB</div></div>
 </div>
 </div>
 </body>

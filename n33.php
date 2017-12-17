@@ -84,26 +84,26 @@ if (isset($_SESSION['user']))
  <P><img src="images/n33_pret.jpg"></P>
  <p> <img src="images/n33_date.jpg" ></p>
  <p>&nbsp&nbsp&nbsp&nbsp Fata de concept, diferentele lipsesc aproape total, bavarezii 
- preferând sa transpuna în productie de serie masina fara a diminua din prima impresie 
+ preferï¿½nd sa transpuna ï¿½n productie de serie masina fara a diminua din prima impresie 
  foarte buna pe care a lasat-o Gran Coupe la salonul auto chinezesc. Pentru cei care se
- asteapta la surprize de proportii avem o veste care s-ar putea sa îi lase bosumflati: 
+ asteapta la surprize de proportii avem o veste care s-ar putea sa ï¿½i lase bosumflati: 
  BMW Seria 6 Gran Coupe nu apeleaza la artificii de design extravagante.
  <br />&nbsp&nbsp&nbsp&nbsp 
- Noul Seria 6 Gran Coupe arata pur si simplu ca o mixtura între un Seria 6 Coupe si o 
- berlina Seria 5, având un bot sportiv si cu o puternica individualitate, o silueta de 
- sedan sportiv, asa cum se asteapta oricine de la un BMW, în timp ce spatele arata foarte
- sportiv si elegant, la fel ca în cazul coupe-ului cu doua usi.Dimensional, BMW Seria 6
- Gran Coupe are o lungime de 5.007 mm (cu 113 mm mai mult decât Seria 6 Coupe), iar 
- ampatamentul este de 2.968 mm, tot cu 113 mm decât la coupe-ul cu 2 usi, cresterea
- dimensionala asigurând un confort mai bun pe bancheta pentru "2+1" persoane, dupa cum
+ Noul Seria 6 Gran Coupe arata pur si simplu ca o mixtura ï¿½ntre un Seria 6 Coupe si o 
+ berlina Seria 5, avï¿½nd un bot sportiv si cu o puternica individualitate, o silueta de 
+ sedan sportiv, asa cum se asteapta oricine de la un BMW, ï¿½n timp ce spatele arata foarte
+ sportiv si elegant, la fel ca ï¿½n cazul coupe-ului cu doua usi.Dimensional, BMW Seria 6
+ Gran Coupe are o lungime de 5.007 mm (cu 113 mm mai mult decï¿½t Seria 6 Coupe), iar 
+ ampatamentul este de 2.968 mm, tot cu 113 mm decï¿½t la coupe-ul cu 2 usi, cresterea
+ dimensionala asigurï¿½nd un confort mai bun pe bancheta pentru "2+1" persoane, dupa cum
  le place inginerilor BMW sa spuna.
   <br />&nbsp&nbsp&nbsp&nbsp nteriorul nu aduce nici el surprize la nivelul designului 
-  interior fata de BMW Seria 6 Coupe, însa pentru BMW Seria 6 Gran Coupe vor fi disponibile 
-  linii de echipare exclusiviste, astfel încât sa fie accentuata impresia de lux si rafinament
+  interior fata de BMW Seria 6 Coupe, ï¿½nsa pentru BMW Seria 6 Gran Coupe vor fi disponibile 
+  linii de echipare exclusiviste, astfel ï¿½ncï¿½t sa fie accentuata impresia de lux si rafinament
   a interiorului. Evident, Seria 6 Gran Coupe va beneficia de cele mai noi sisteme electronice 
   de asistenta, precum si de ultimele evolutii ale sistemului infotainment BMW ConnectedDrive.
   <br />&nbsp&nbsp&nbsp&nbsp
-  Asa încât pregatiti-va pentru faruri adaptive cu LED, sistem Parking Assist cu Surround View,
+  Asa ï¿½ncï¿½t pregatiti-va pentru faruri adaptive cu LED, sistem Parking Assist cu Surround View,
   cu camere de filmat, BMW Night Vision, BMW Head-Up Display, sistem audio Bang&Olufsen High-End
   Surround Sound, precum si un sistem iDrive rafinat, cu tehnologie trans-reflective pentru display.</p>
 	</div>
@@ -163,9 +163,8 @@ if (isset($_SESSION['user']))
 	?>
 <div class="footer"><a href="admin.php">Scurt istoric</a></div>
 <div class="clear"></div>
-<div id="footer"><div class="fleft">© 2017 Cristi Birla & Ionut Dondera. Toate drepturile rezervate.</div>
-<div class="fcenter">Design by ID &amp; CB ///coded by ID & CB</div></div>
-</div>
+        <div id="footer"><div class="fleft">ï¿½ 2017 Cristi Birla & Ionut Dondera. Toate drepturile rezervate.</div>
+            <div class="fcenter">Design by ID &amp; CB ///coded by ID & CB</div></div></div>
 </div>
 </body>
 </html>

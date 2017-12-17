@@ -1,55 +1,14 @@
 <?php
-error_reporting (E_ALL ^ E_NOTICE);
-// Daca este activat butonul de submit
-if(isset($_POST['trimite'])){
-	
-	// Numele utilizatorului
-	$nume = $_POST['nume'];
-	
-	// Subiectul formularului trimis
-	$subiect = $_POST['subiect'];
-	
-	// Mesajul trimis
-	$mesaj = $_POST['mesaj'];
-	
-	// Adresa de email a vizitatorului
-	$email = $_POST['email'];	
-	
-	// Adresa de email a administratorului
-	$to ='ajutor@bmw.ro ';
-	
-	// Trimite mesajul
-	//if($_POST['nume'] != "" && $_POST['email'] != "" && $_POST['subiect'] != "" && $_POST['mesaj'] != ""){
-		if($nume && $subiect && $mesaj && $email){
-		
-		$header = "from: $nume <$email>";
-		
-		$send = mail($to,$subiect,$mesaj,$header);
-		
-		if($send==1){
-			?>
-				  
-				   <script type="text/javascript">
-								   alert("Mesajul tau a fost trimis cu succes!");
- 		            </script>
-				   <?php	
-		} else {
-			?>
-				   
-				   <script type="text/javascript">
-								   alert("Va rugam completati toate campurile!!!");
- 		            </script>
-				   <?php
-		}
-	}
-	else {
-		?>
-				   
-				   <script type="text/javascript">
-								   alert("Va rugam completati toate campurile!!!");
- 		            </script>
-				   <?php
-	}
+    include ("connect.php");
+    if(isset($_POST['trimite'])){
+        $nume    = $_REQUEST['nume'];
+        $subiect    = $_REQUEST['subiect'];
+        $email   = $_REQUEST['email'];
+        $mesaj = $_REQUEST['mesaj'];
+
+        $query=mysqli_query($db_connect,"INSERT INTO contact(name,subject,email,message) VALUES('$nume','$subiect','$email','$mesaj')") or die(mysqli_error($db_connect));
+        mysqli_close($db_connect);
+
 }
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -192,9 +151,8 @@ if (isset($_SESSION['user']))
 	?>
 <div class="footer"><a href="admin.php">Scurt istoric</a></div>
 <div class="clear"></div>
-<div id="footer"><div class="fleft">© 2017 Cristi Birla & Ionut Dondera. Toate drepturile rezervate.</div>
-<div class="fcenter">Design by ID &amp; CB ///coded by ID & CB</div></div>
-</div>
+        <div id="footer"><div class="fleft">ï¿½ 2017 Cristi Birla & Ionut Dondera. Toate drepturile rezervate.</div>
+            <div class="fcenter">Design by ID &amp; CB ///coded by ID & CB</div></div></div>
 </div>
 </body>
 </html>

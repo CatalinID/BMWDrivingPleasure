@@ -83,36 +83,36 @@ if (isset($_SESSION['user']))
 <div id="main">
  <P><img src="images/n23_pret.jpg"></P>
  <p> <img src="images/n23_date.jpg" ></p>
- <p>&nbsp&nbsp&nbsp&nbsp BMW X5 are deja 15 ani de cariera. 15 ani de când BMW a lansat ceea 
+ <p>&nbsp&nbsp&nbsp&nbsp BMW X5 are deja 15 ani de cariera. 15 ani de cï¿½nd BMW a lansat ceea 
  ce a numit la acea vreme "SAV". Adica Sport Activity Vehicle. Prima generatie a venit la
- finalul lui 1999 si era primul SUV produs de marca bavareza. Pâna în acel moment, BMW nu
- se aventurase pe terenul automobilelor din acest segment, dar când a decis sa faca pasul
- a reusit sa creeze un SUV cu adevarate calitati dinamice care îsi pastra spiritul sportiv
+ finalul lui 1999 si era primul SUV produs de marca bavareza. Pï¿½na ï¿½n acel moment, BMW nu
+ se aventurase pe terenul automobilelor din acest segment, dar cï¿½nd a decis sa faca pasul
+ a reusit sa creeze un SUV cu adevarate calitati dinamice care ï¿½si pastra spiritul sportiv
  pe sosea, dar putea negocia si drumuri dificile neasfaltate. Prima generatie avea sub capota
- motoare mari, cu sase si opt cilindri, si un singur diesel. De atunci si pâna astazi,
+ motoare mari, cu sase si opt cilindri, si un singur diesel. De atunci si pï¿½na astazi,
  lucrurile s-au schimbat radical. 
  <br />&nbsp&nbsp&nbsp&nbsp 
- Noul X5 a crescut în dimensuni fata de generatia anterioara. Este acum ceva mai masiv,
- iar asta se traduce si printr-un spatiu interior mai generos. În fata, lucrurile sunt 
- perfecte. Evem spatiu mai mult decât suficient pentru cei doi ocupanti ai primului rând,
+ Noul X5 a crescut ï¿½n dimensuni fata de generatia anterioara. Este acum ceva mai masiv,
+ iar asta se traduce si printr-un spatiu interior mai generos. ï¿½n fata, lucrurile sunt 
+ perfecte. Evem spatiu mai mult decï¿½t suficient pentru cei doi ocupanti ai primului rï¿½nd,
  iar scaunele optionale confort sunt sublime. Ce-i drept, acestea costa 2.380 euro, 
- dar daca aveti de gând sa folositi masina la drumuri lungi merita fiecare cent. Sunt
- extrem de confortabile, pot fi reglate electric pâna la cele mai mici amanunte, 
- un adevarat rasfat pentru cel de la volan si însotitorul sau.
+ dar daca aveti de gï¿½nd sa folositi masina la drumuri lungi merita fiecare cent. Sunt
+ extrem de confortabile, pot fi reglate electric pï¿½na la cele mai mici amanunte, 
+ un adevarat rasfat pentru cel de la volan si ï¿½nsotitorul sau.
  <br />&nbsp&nbsp&nbsp&nbsp 
  BMW X5 este unul dintre acele automobile pe care poti sa le recunosti instant pe 
  strada. Si acest lucru nu se datoreaza unui design extrem de spectaculos, ci unei
- identitati bine structurate. De la prima si pâna la a treia si actuala generatie,
+ identitati bine structurate. De la prima si pï¿½na la a treia si actuala generatie,
  X5 a evoluat din punct de vedere al designului, dar nu si-a speriat niciodata
  clientii prin artificii inutile.
  <br />&nbsp&nbsp&nbsp&nbsp 
  Noua generatie poate fi recunoscuta usor datorita blocurilor optice frontale care 
- se lipesc acum de faimoasa grila BMW. În plus, BMW te lasa sa îti alegi stilul
- propunând doua pachete de design exterior. Cel al modelului de test se numeste 
- Pure Experience si costa 2.000 euro în plus fata de varianta standard. 
+ se lipesc acum de faimoasa grila BMW. ï¿½n plus, BMW te lasa sa ï¿½ti alegi stilul
+ propunï¿½nd doua pachete de design exterior. Cel al modelului de test se numeste 
+ Pure Experience si costa 2.000 euro ï¿½n plus fata de varianta standard. 
  Alternativele sunt Pure Excellence, care merge pe o linie mai eleganta, sau
- sportivul M Pack. Orice ai alege, BMW X5 ramâne o prezenta impunatoare. Nu 
- putem spune despre el ca este un automobil frumos, este însa unul cu o identitate bine stabilita.</p>
+ sportivul M Pack. Orice ai alege, BMW X5 ramï¿½ne o prezenta impunatoare. Nu 
+ putem spune despre el ca este un automobil frumos, este ï¿½nsa unul cu o identitate bine stabilita.</p>
 	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
 	</div>
 <div class="clear"></div>
@@ -171,9 +171,8 @@ if (isset($_SESSION['user']))
 	?>
 <div class="footer"><a href="admin.php">Scurt istoric</a></div>
 <div class="clear"></div>
-<div id="footer"><div class="fleft">© 2017 Cristi Birla & Ionut Dondera. Toate drepturile rezervate.</div>
-<div class="fcenter">Design by ID &amp; CB ///coded by ID & CB</div></div>
-</div>
+        <div id="footer"><div class="fleft">ï¿½ 2017 Cristi Birla & Ionut Dondera. Toate drepturile rezervate.</div>
+            <div class="fcenter">Design by ID &amp; CB ///coded by ID & CB</div></div></div>
 </div>
 </body>
 </html>

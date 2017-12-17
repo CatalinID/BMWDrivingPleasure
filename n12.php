@@ -84,20 +84,20 @@ if (isset($_SESSION['user']))
  <P><img src="images/n12_pret.jpg"></P>
  <p> <img src="images/n12_date.jpg" ></p>
  <p>&nbsp&nbsp&nbsp&nbsp Cum ar fi sa existe un model cu care te poti "juca" asa cum te
- puteai juca cu un M3 înainte ca el sa creasca în dimensiuni si sa devina o masina mai 
- degraba sportiv-elitista decât una pur sportiva, sincera, plina de elementul fun? Cum 
- ar fi sa dai de o masina cu tractiune spate care sa te învete ca fiecare iesire - oricât 
- de mica - din liniile clasice ale condusului pe sosea înseamna automat o intrare în starea 
+ puteai juca cu un M3 ï¿½nainte ca el sa creasca ï¿½n dimensiuni si sa devina o masina mai 
+ degraba sportiv-elitista decï¿½t una pur sportiva, sincera, plina de elementul fun? Cum 
+ ar fi sa dai de o masina cu tractiune spate care sa te ï¿½nvete ca fiecare iesire - oricï¿½t 
+ de mica - din liniile clasice ale condusului pe sosea ï¿½nseamna automat o intrare ï¿½n starea 
  de extaz pe care doar o masina dedicata pur condusului ti-o poate oferi? 
 <br />&nbsp&nbsp&nbsp&nbsp
 Masina asta exista. Este o nebunie pe roti, un model pe care nu-l uiti nici macar daca 
 te loveste o amnezie totala la ani buni dupa ce l-ai condus. Nu e cel mai frumos din lume, 
-însa e la fel de eficient precum o injectie cu adrenalina care te trezeste din morti atunci 
-când toti te credeau terminat si-ngropat într-o lume de fiare create pentru transport, nu pentru pasiune.
+ï¿½nsa e la fel de eficient precum o injectie cu adrenalina care te trezeste din morti atunci 
+cï¿½nd toti te credeau terminat si-ngropat ï¿½ntr-o lume de fiare create pentru transport, nu pentru pasiune.
 <br />&nbsp&nbsp&nbsp&nbsp
-Sa facem cunostinta cu noul BMW M235i, veriga lipsa între versiunile clasice ale coupe-ului 
-Seria 2 si viitorul M2. 326 de cai putere înghesuiti într-un ambalaj compact care are toate 
-atributele sa-ti rascoleasca placerea în zone nebanuite.</p>
+Sa facem cunostinta cu noul BMW M235i, veriga lipsa ï¿½ntre versiunile clasice ale coupe-ului 
+Seria 2 si viitorul M2. 326 de cai putere ï¿½nghesuiti ï¿½ntr-un ambalaj compact care are toate 
+atributele sa-ti rascoleasca placerea ï¿½n zone nebanuite.</p>
  	</div>
 <div class="clear"></div>
 </div><br>
@@ -156,9 +156,8 @@ if (isset($_SESSION['user']))
 	?>
 <div class="footer"><a href="admin.php">Scurt istoric</a></div>
 <div class="clear"></div>
-<div id="footer"><div class="fleft">© 2017 Cristi Birla & Ionut Dondera. Toate drepturile rezervate.</div>
-<div class="fcenter">Design by ID &amp; CB ///coded by ID & CB</div></div>
-</div>
+        <div id="footer"><div class="fleft">ï¿½ 2017 Cristi Birla & Ionut Dondera. Toate drepturile rezervate.</div>
+            <div class="fcenter">Design by ID &amp; CB ///coded by ID & CB</div></div></div>
 </div>
 </body>
 </html>

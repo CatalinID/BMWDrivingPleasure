@@ -83,26 +83,26 @@ if (isset($_SESSION['user']))
 <div id="main">
  <P><img src="images/n13_pret.jpg"></P>
  <p> <img src="images/n13_date.jpg" ></p>
- <p>&nbsp&nbsp&nbsp&nbspÎn 2013 se fac 4 ani de la lansarea acestei generatii 
- BMW Z4, asa încât bavarezii au pregatit o mica restilizare a lui Z4, la 
- pachet cu unele modificari la nivel tehnic. Iata în continuare ce aduce nou 
+ <p>&nbsp&nbsp&nbsp&nbspï¿½n 2013 se fac 4 ani de la lansarea acestei generatii 
+ BMW Z4, asa ï¿½ncï¿½t bavarezii au pregatit o mica restilizare a lui Z4, la 
+ pachet cu unele modificari la nivel tehnic. Iata ï¿½n continuare ce aduce nou 
  faceliftul de 2013 al roadsterului BMW Z4.<br />&nbsp&nbsp&nbsp&nbsp
  Cea de-a doua generatie BMW Z4 a fost considerata mai reusita, din punct de 
- vedere al designului, decât primul Z4, creat în epoca Bangle, ceea ce i-a atras
+ vedere al designului, decï¿½t primul Z4, creat ï¿½n epoca Bangle, ceea ce i-a atras
  oarecare critici pentru aspect, dar nu pentru partea tehnica.
- Asa încât fanii asteptau de la faceliftul lui BMW Z4 o schimbare foarte 
- vizibila de atitudine. Bavarezii, însa, si-au pastrat politica de discretie,
- asa încât faceliftul de 2013 al lui BMW Z4 se înscrie în linia ”gaseste (
- daca poti!) schimbarile”.<br />&nbsp&nbsp&nbsp&nbsp
- Câteva detalii îi vor face pe cunoscatori sa-si dea seama ca e vorba de un 
- facelift: adaptarea tehnologiei LED pentru ”Angel Eyes” în cazul farurilor 
+ Asa ï¿½ncï¿½t fanii asteptau de la faceliftul lui BMW Z4 o schimbare foarte 
+ vizibila de atitudine. Bavarezii, ï¿½nsa, si-au pastrat politica de discretie,
+ asa ï¿½ncï¿½t faceliftul de 2013 al lui BMW Z4 se ï¿½nscrie ï¿½n linia ï¿½gaseste (
+ daca poti!) schimbarileï¿½.<br />&nbsp&nbsp&nbsp&nbsp
+ Cï¿½teva detalii ï¿½i vor face pe cunoscatori sa-si dea seama ca e vorba de un 
+ facelift: adaptarea tehnologiei LED pentru ï¿½Angel Eyesï¿½ ï¿½n cazul farurilor 
  si stopurilor, noile ornamente de pe aripile fata sau jantele cu un design 
- nou, care merg pâna la dimensiunea de 18 inci.<br />&nbsp&nbsp&nbsp&nbsp
- Pentru interior, designerii bavarezi s-au gândit ca nu are rost sa aduca
- modificari de design, ci doar de aspect. Asa încât BMW Z4 facelift beneficiaza 
+ nou, care merg pï¿½na la dimensiunea de 18 inci.<br />&nbsp&nbsp&nbsp&nbsp
+ Pentru interior, designerii bavarezi s-au gï¿½ndit ca nu are rost sa aduca
+ modificari de design, ci doar de aspect. Asa ï¿½ncï¿½t BMW Z4 facelift beneficiaza 
  de un pachet de personalizare Hyper Orange, care presupune piele neagra Alcantara 
- pentru scaune, având cusatura orange contrastanta, dar si diverse ornamente, 
- cum ar fi insertii metalice pe bord sau un plastic high-gloss pentru mânerele 
+ pentru scaune, avï¿½nd cusatura orange contrastanta, dar si diverse ornamente, 
+ cum ar fi insertii metalice pe bord sau un plastic high-gloss pentru mï¿½nerele 
  usilor si maneta schimbatorului.</p>
 	</div>
 <div class="clear"></div>
@@ -162,9 +162,8 @@ if (isset($_SESSION['user']))
 	?>
 <div class="footer"><a href="admin.php">Scurt istoric</a></div>
 <div class="clear"></div>
-<div id="footer"><div class="fleft">© 2017 Cristi Birla & Ionut Dondera. Toate drepturile rezervate.</div>
-<div class="fcenter">Design by ID &amp; CB ///coded by ID & CB</div></div>
-</div>
+        <div id="footer"><div class="fleft">ï¿½ 2017 Cristi Birla & Ionut Dondera. Toate drepturile rezervate.</div>
+            <div class="fcenter">Design by ID &amp; CB ///coded by ID & CB</div></div></div>
 </div>
 </body>
 </html>

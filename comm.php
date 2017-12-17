@@ -7,14 +7,14 @@ error_reporting (E_ALL ^ E_NOTICE);
   ?>
 <?php
 error_reporting (E_ALL ^ E_NOTICE);
-include 'connect.php';
-$name=$_POST['name'];
-$comment=$_POST['comment'];
-if (isset($_POST['submit'])) 
+include ("connect.php");
+$name=$_REQUEST['name'];
+$comment=$_REQUEST['comment'];
+if (isset($_REQUEST['submit']))
 {
 	if ($name && $comment)
 	{
-			mysql_query("INSERT INTO comment (name,comment) VALUES ('$name','$comment')" );
+			mysqli_query($db_connect,"INSERT INTO comment (name,comment) VALUES ('$name','$comment')" );
 			header("Location: succes.php");
 	}
 	else 
@@ -123,8 +123,8 @@ if (isset($_POST['submit']))
  <br/><br/>
  <?php
  $sql='SELECT * FROM comment ORDER BY id DESC';
- $getquery=mysql_query($sql);
- while ($rows=mysql_fetch_assoc($getquery))
+ $getquery=mysqli_query($db_connect,$sql);
+ while ($rows=mysqli_fetch_assoc($getquery))
  {
 	 $id=$rows['id'];
 	 $name=$rows['name'];
@@ -147,9 +147,8 @@ if (isset($_POST['submit']))
 <div class="footer"><a href="comm.php">Comentarii</a></div>
 <div class="footer"><a href="admin.php">Scurt istoric</a></div>
 <div class="clear"></div>
-<div id="footer"><div class="fleft">© 2017 Cristi Birla & Ionut Dondera. Toate drepturile rezervate.</div>
-<div class="fcenter">Design by ID &amp; CB ///coded by ID & CB</div></div>
-</div>
+        <div id="footer"><div class="fleft">ï¿½ 2017 Cristi Birla & Ionut Dondera. Toate drepturile rezervate.</div>
+            <div class="fcenter">Design by ID &amp; CB ///coded by ID & CB</div></div></div>
 </div>
 </body>
 </html>
@@ -157,6 +156,6 @@ if (isset($_POST['submit']))
    }
    else
    {
-   include 'comm_logat.php';	
+   include "comm_logat.php";
    }
      ?>

@@ -4,31 +4,29 @@ error_reporting (E_ALL ^ E_NOTICE);
  
   if (isset($_SESSION['user']))
   {
-  ?>
-<?php
-include 'connect.php';
-$exista=("SELECT nume FROM elevi  WHERE user='".$_SESSION['user']."' "); 
-$q=@mysql_query($exista);
-$linie=mysql_fetch_array($q);
-$name= $_SESSION['nume']=$linie[0];;
-$comment=$_POST['comment'];
-if (isset($_POST['submit'])) 
-{
-	if ($name && $comment)
-	{
-			$insert=mysql_query("INSERT INTO comment (name,comment) VALUES ('$name','$comment')" );
+    include ("connect.php");
+    $exista=("SELECT nume FROM elevi  WHERE user='".$_SESSION['user']."' ");
+    $q=@mysqli_query($db_connect,$exista);
+    $linie=mysqli_fetch_array($q);
+    $name= $_SESSION['nume']=$linie[0];;
+    $comment=$_POST['comment'];
+    if (isset($_POST['submit']))
+    {
+	    if ($name && $comment)
+	    {
+			$insert=mysqli_query($db_connect,"INSERT INTO comment (name,comment) VALUES ('$name','$comment')" );
 			header("Location: succes_logat.php");
-	}
-	else 
-	{
-		?>		   
+	    }
+	    else
+	    {
+		    ?>
 			<script type="text/javascript">
 				alert("Completati toate campurile!!!");
  		    </script>
-		<?php
-	}
+		    <?php
+	    }
 }
- ?>
+?>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -120,10 +118,10 @@ if (isset($_POST['submit']))
  <p><b>Nota</b>:campurile marcate cu * sunt obligatorii!!!</p>
  <br/><br/>
  <?php
- include 'connect.php';
- $sql='SELECT * FROM comment ORDER BY id DESC';
- $getquery=mysql_query($sql);
- while ($rows=mysql_fetch_assoc($getquery))
+ include ("connect.php");
+ $sql="SELECT * FROM comment ORDER BY id DESC";
+ $getquery=mysqli_query($db_connect,$sql);
+ while ($rows=mysqli_fetch_assoc($getquery))
  {
 	 $id=$rows['id'];
 	 $name=$rows['name'];
@@ -146,9 +144,8 @@ if (isset($_POST['submit']))
 <div class="footer"><a href="comm_logat.php">Comentarii</a></div>
 <div class="footer"><a href="admin.php">Scurt istoric</a></div>
 <div class="clear"></div>
-<div id="footer"><div class="fleft">© 2017 Cristi Birla & Ionut Dondera. Toate drepturile rezervate.</div>
-<div class="fcenter">Design by ID &amp; CB ///coded by ID & CB</div></div>
-</div>
+        <div id="footer"><div class="fleft">ï¿½ 2017 Cristi Birla & Ionut Dondera. Toate drepturile rezervate.</div>
+            <div class="fcenter">Design by ID &amp; CB ///coded by ID & CB</div></div></div>
 </div>
 </body>
 </html>
@@ -156,7 +153,7 @@ if (isset($_POST['submit']))
    }
    else
    {
-   include 'adm.php';
+   include ("adm.php");
    ?>
 				   
 				   <script type="text/javascript">

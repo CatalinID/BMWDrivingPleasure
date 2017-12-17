@@ -94,7 +94,7 @@ if (isset($_SESSION['user']))
     </td>
     <td align="center">
     <a href="r13.php"><img src="images/r13.jpg" /></a> <br>
-     <a href="r13.php"><font align="center"color="white">BMW 430d xDrive Coupé <br />
+     <a href="r13.php"><font align="center"color="white">BMW 430d xDrive Coupï¿½ <br />
     Pret: de la 59.500 Euro <br />
     Kilometraj:28.359 km </font> </a>
     </td>
@@ -139,9 +139,8 @@ if (isset($_SESSION['user']))
 	?>
 <div class="footer"><a href="admin.php">Scurt istoric</a></div>
 <div class="clear"></div>
-<div id="footer"><div class="fleft">© 2017 Cristi Birla & Ionut Dondera. Toate drepturile rezervate.</div>
-<div class="fcenter">Design by ID &amp; CB ///coded by ID & CB</div></div>
-</div>
+        <div id="footer"><div class="fleft">ï¿½ 2017 Cristi Birla & Ionut Dondera. Toate drepturile rezervate.</div>
+            <div class="fcenter">Design by ID &amp; CB ///coded by ID & CB</div></div></div>
 </div>
 </body>
 </html>

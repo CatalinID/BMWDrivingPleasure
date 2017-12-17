@@ -1,6 +1,6 @@
 <?php
-include 'connect.php';
+include ("connect.php");
 $deleteid=$_GET['id'];
-$del=mysql_query("DELETE FROM comment WHERE id=$deleteid ");
+$del=mysqli_query($db_connect,"DELETE FROM comment WHERE id=$deleteid ");
 header("location: succes_logat.php");
 ?>

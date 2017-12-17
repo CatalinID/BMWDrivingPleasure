@@ -92,24 +92,24 @@ Nava amiral a unui constructor, chiar daca nu este premium, vine cu cele mai bun
  acel producator. E ca si cum ai avea cel mai tare smartphone lansat pe piata sau ai merge la
  un hotel de cinci stele din Europa de Vest. Stii ca totul va fi aranjat cu grija maxima si 
  vor fi implicate doar materiale de calitate.
-Cam asa stau lucrurile si în ceea ce priveste o nota pentru interiorul unei masini din acest
+Cam asa stau lucrurile si ï¿½n ceea ce priveste o nota pentru interiorul unei masini din acest
  segment. Oricare ar fi ea.
 <br /> &nbsp&nbsp&nbsp&nbsp
-Ce sa critici când te uiti la ceasurile de bord care sunt de fapt creionate digital pe un 
+Ce sa critici cï¿½nd te uiti la ceasurile de bord care sunt de fapt creionate digital pe un 
 ecran care ia locul clasicelor indicatoare analog de pe masinile de zi cu zi si care transforma
- masina dintr-una normala în modul Confort într-una complet diferita în modul Sport, schimbând 
- grafica, nu doar culoarea din spatele acelor? În plus, muchiile piesei care înconjoara bordul
- sunt îmbracate în piele. Cineva chiar a muncit sa coasa piele acolo.
+ masina dintr-una normala ï¿½n modul Confort ï¿½ntr-una complet diferita ï¿½n modul Sport, schimbï¿½nd 
+ grafica, nu doar culoarea din spatele acelor? ï¿½n plus, muchiile piesei care ï¿½nconjoara bordul
+ sunt ï¿½mbracate ï¿½n piele. Cineva chiar a muncit sa coasa piele acolo.
 <br /> &nbsp&nbsp&nbsp&nbsp
 BMW Seria 7 este un model impunator, elegant si neintruziv, cu toate ca nu este cea mai reusita 
 creatie a specialistilor din Munchen. La acest nivel, aspectul exterior este o problema de gusturi,
- în speta de dorintele si asteptarile clientului.
+ ï¿½n speta de dorintele si asteptarile clientului.
 
-Iar în segmentul lui Seria 7 se afla alte modele care inspira aceleasi valori, dar unele vin 
-cu lucruri în plus. Fie ca vorbim despre A8 sau despre noul S-Klasse, Seria 7 ramâne dator la
- capitolul estetic si asta va trebui sa se schimbe odata cu aparitia viitoarei generatii. În 
+Iar ï¿½n segmentul lui Seria 7 se afla alte modele care inspira aceleasi valori, dar unele vin 
+cu lucruri ï¿½n plus. Fie ca vorbim despre A8 sau despre noul S-Klasse, Seria 7 ramï¿½ne dator la
+ capitolul estetic si asta va trebui sa se schimbe odata cu aparitia viitoarei generatii. ï¿½n 
  orice caz, acest segment are modele care nu se demodeaza usor si reusesc sa fie frumoase chiar 
- si când trec doua sau trei generatii peste ele, cât timp sunt în stare perfecta cu vopseaua si caroseria.
+ si cï¿½nd trec doua sau trei generatii peste ele, cï¿½t timp sunt ï¿½n stare perfecta cu vopseaua si caroseria.
  </p>
  
 </div>
@@ -171,9 +171,8 @@ if (isset($_SESSION['user']))
 	?>
 <div class="footer"><a href="admin.php">Scurt istoric</a></div>
 <div class="clear"></div>
-<div id="footer"><div class="fleft">© 2017 Cristi Birla & Ionut Dondera. Toate drepturile rezervate.</div>
-<div class="fcenter">Design by ID &amp; CB ///coded by ID & CB</div></div>
-</div>
+        <div id="footer"><div class="fleft">ï¿½ 2017 Cristi Birla & Ionut Dondera. Toate drepturile rezervate.</div>
+            <div class="fcenter">Design by ID &amp; CB ///coded by ID & CB</div></div></div>
 </div>
 </body>
 </html>

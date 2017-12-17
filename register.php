@@ -7,12 +7,12 @@ if (isset($_POST['register_btn']))
 {
 if ($_POST['register_name'] != "" && $_POST['register_username'] != "" && $_POST['register_password'] != '') {
     // preia datele din formular
-    $name = $_POST['register_name'];
-    $username = $_POST['register_username'];
-    $password = md5($_POST['register_password']);
+    $name = $_REQUEST['register_name'];
+    $username = $_REQUEST['register_username'];
+    $password = md5($_REQUEST['register_password']);
 			// formeaza si executa query-ul de inserare in baza de date user,passw,nume
-		$query = "INSERT INTO `elevi` (`user`,`passw`,`nume`) VALUES ('".$username."','".$password."','".$name."')";
-		$result = mysql_query($query) or die ( "Error : ". mysql_error() );
+		$query = "INSERT INTO elevi (user,passw,nume) VALUES ('$username','$password','$name')";
+		$result = mysqli_query($db_connect,$query) or die ( "Error : ". mysqli_error($db_connect) );
  
 		// afiseaza un mesaj de succes
 		if ($result) {
@@ -22,7 +22,7 @@ if ($_POST['register_name'] != "" && $_POST['register_username'] != "" && $_POST
 								   alert("Inregistrarea a fost efectuata cu succes!Veti fi redirectionat la pagina de login.");
  		            </script>
 				   <?php
-				   include 'adm.php';
+				   include ("adm.php");
 		}
 		else
 		{
@@ -142,8 +142,8 @@ else
 <div class="footer"><a href="comm.php">Comentarii</a></div>
 <div class="footer"><a href="admin.php">Scurt istoric</a></div>
 <div class="clear"></div>
-<div id="footer"><div class="fleft">© 2017 Cristi Birla & Ionut Dondera. Toate drepturile rezervate.</div>
-<div class="fcenter">Design by ID &amp; CB ///coded by ID & CB</div></div>
+        <div id="footer"><div class="fleft">ï¿½ 2017 Cristi Birla & Ionut Dondera. Toate drepturile rezervate.</div>
+            <div class="fcenter">Design by ID &amp; CB ///coded by ID & CB</div></div>
 </div>
 </div>
 </body>

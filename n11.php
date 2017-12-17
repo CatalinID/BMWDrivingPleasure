@@ -82,8 +82,8 @@ if (isset($_SESSION['user']))
 <div id="main">
  <P><img src="images/n11_pret.jpg"></P>
  <p> <img src="images/n11_date.jpg" ></p>
- <p>In mod curios, debutul lui BMW Seria 1 “3-door” a avut loc dupa prezentarea 
- variantei cu cinci usi. Mai mult – inca din momentul lansarii, el a demonstrat
+ <p>In mod curios, debutul lui BMW Seria 1 ï¿½3-doorï¿½ a avut loc dupa prezentarea 
+ variantei cu cinci usi. Mai mult ï¿½ inca din momentul lansarii, el a demonstrat
  mai multa noima decat ruda cu tenta familiala. Motivul? Parfumul de model sportiv, 
  transmis de lipsa portierelor spate, a scuzat habitaclul defectuos la nivelul 
  accesului si meschin in privinta spatiului la genunchi si cap (pentru pasagerii 
@@ -91,14 +91,14 @@ if (isset($_SESSION['user']))
  &nbsp&nbsp&nbsp&nbsp
  Din fericire, componenta mecanica a lui BMW Seria 1 justifica intru totul 
  sacrificiul care trebuie facut la nivelul laturii practice, singurul hatch 
- compact cu tractiune spate de pe piata fiind propulsat de motoare vioaie, spre… foarte potente. 
+ compact cu tractiune spate de pe piata fiind propulsat de motoare vioaie, spreï¿½ foarte potente. 
 <br />&nbsp&nbsp&nbsp&nbsp
  Varianta cu trei usi nu surprinde decit poate prin lipsa motorului mic, de 1,6
  litri, semn ca Seria 1 nu tinde neaparat spre titulatura de cel mai putin costisitor
  BMW. Absenta celei de-a doua perechi de usi inseamna portiere mai mari, iar 
  bancheta din spate poate fi inlocuita optional cu doar doua locuri, despartite 
  printr-un spatiu de depozitare. In rest, aceleasi dimensiuni si aceeasi platforma 
- tehnica, insa cu diferente de 750 de euro – doua usi in minus inseamna, totusi, un BMW ceva mai ieftin. 
+ tehnica, insa cu diferente de 750 de euro ï¿½ doua usi in minus inseamna, totusi, un BMW ceva mai ieftin. 
  <br />&nbsp&nbsp&nbsp&nbsp
  In plus, reteta constructiva include toate acele ingrediente care transforma
  masinile obisnuite in sportive de prima clasa: directie precisa, cu feedback 
@@ -161,9 +161,8 @@ if (isset($_SESSION['user']))
 	?>
 <div class="footer"><a href="admin.php">Scurt istoric</a></div>
 <div class="clear"></div>
-<div id="footer"><div class="fleft">© 2017 Cristi Birla & Ionut Dondera. Toate drepturile rezervate.</div>
-<div class="fcenter">Design by ID &amp; CB ///coded by ID & CB</div></div>
-</div>
+        <div id="footer"><div class="fleft">ï¿½ 2017 Cristi Birla & Ionut Dondera. Toate drepturile rezervate.</div>
+            <div class="fcenter">Design by ID &amp; CB ///coded by ID & CB</div></div></div>
 </div>
 </body>
 </html>
